@@ -1,0 +1,32 @@
+"Source:","G:\.shortcut-targets-by-id\1j-2Z2XkG3aS3d9MFdSAy-BWJbC8KFFoi\ABOPShared\Customer\LibreCellular\B3LPD\B3LPD.kicad_sch"
+"Date:","11/08/2023 13:04:34"
+"Tool:","Eeschema (7.0.0)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","11"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Manufacturer","ManufacturerPartNumber"
+"","","H1","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_2.7mm_M2.5_ISO14580","~","",""
+"","","H2","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_2.7mm_M2.5_ISO14580","~","",""
+"","","H3","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_2.7mm_M2.5_ISO14580","~","",""
+"","","H4","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_2.7mm_M2.5_ISO14580","~","",""
+"","","J1","60314202124525","Connector:Conn_Coaxial","ABOP_Parts:Wurth_60314202124525"," ~","Wurth","60314202124525"
+"","","J2","U.FL-R-SMT(01)","Connector:Conn_Coaxial","ABOP_Parts:Connector_RF_Hirose_U.FL-R-SMT(01)"," ~","Hirose","U.FL-R-SMT(01)"
+"","","J3","U.FL-R-SMT(01)","Connector:Conn_Coaxial","ABOP_Parts:Connector_RF_Hirose_U.FL-R-SMT(01)"," ~","Hirose","U.FL-R-SMT(01)"
+"","","J4","U.FL-R-SMT(01)","Connector:Conn_Coaxial","ABOP_Parts:Connector_RF_Hirose_U.FL-R-SMT(01)"," ~","Hirose","U.FL-R-SMT(01)"
+"","","R1","50R","Device:R_Small","Resistor_SMD:R_0603_1608Metric","~","",""
+"","","U1","QPQ1297","ABOP_Parts:QPQ1297","ABOP_Parts:Qorvo_QPQ1297","https://www.qorvo.com/products/p/QPQ1297#documents","Qorvo","QPQ1297"
+"","","U2","HHM22139A2","ABOP_Parts:HHM22139A2","ABOP_Parts:TDK_HHM22139A2","https://product.tdk.com/system/files/dam/doc/product/rf/rf/coupler/catalog/rf_coupler_hhm22139a2_en.pdf","TDK","HHM22139A2"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Manufacturer","ManufacturerPartNumber"
+"1","4","H1, H2, H3, H4","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_2.7mm_M2.5_ISO14580","~","",""
+"2","1","J1","60314202124525","Connector:Conn_Coaxial","ABOP_Parts:Wurth_60314202124525"," ~","Wurth","60314202124525"
+"3","3","J2, J3, J4","U.FL-R-SMT(01)","Connector:Conn_Coaxial","ABOP_Parts:Connector_RF_Hirose_U.FL-R-SMT(01)"," ~","Hirose","U.FL-R-SMT(01)"
+"4","1","R1","50R","Device:R_Small","Resistor_SMD:R_0603_1608Metric","~","",""
+"5","1","U1","QPQ1297","ABOP_Parts:QPQ1297","ABOP_Parts:Qorvo_QPQ1297","https://www.qorvo.com/products/p/QPQ1297#documents","Qorvo","QPQ1297"
+"6","1","U2","HHM22139A2","ABOP_Parts:HHM22139A2","ABOP_Parts:TDK_HHM22139A2","https://product.tdk.com/system/files/dam/doc/product/rf/rf/coupler/catalog/rf_coupler_hhm22139a2_en.pdf","TDK","HHM22139A2"

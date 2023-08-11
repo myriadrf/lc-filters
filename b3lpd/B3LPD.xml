@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>G:\.shortcut-targets-by-id\1j-2Z2XkG3aS3d9MFdSAy-BWJbC8KFFoi\ABOPShared\Customer\LibreCellular\B3LPD\B3LPD.kicad_sch</source>
+    <date>11/08/2023 13:04:34</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>B3LPD</title>
+        <company/>
+        <rev>0.1</rev>
+        <date/>
+        <source>B3LPD.kicad_sch</source>
+        <comment number="1" value="Band 3 1W Duplexer"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_ISO14580</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3aff27e8-24ee-4ca8-a7bc-9ee5390902d0</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_ISO14580</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1512c1ae-7147-4bc9-b9ab-2b6d2bfa2ed8</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_ISO14580</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00b36bc9-0b55-4581-b927-9478f709f479</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_ISO14580</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58b84bbf-1b39-4d49-b2dc-dd784a9a1638</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>60314202124525</value>
+      <footprint>ABOP_Parts:Wurth_60314202124525</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Manufacturer">Wurth</field>
+        <field name="ManufacturerPartNumber">60314202124525</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Manufacturer" value="Wurth"/>
+      <property name="ManufacturerPartNumber" value="60314202124525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5b251a2-6fcd-470d-8e08-aff52f0f3d4b</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>U.FL-R-SMT(01)</value>
+      <footprint>ABOP_Parts:Connector_RF_Hirose_U.FL-R-SMT(01)</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Manufacturer">Hirose</field>
+        <field name="ManufacturerPartNumber">U.FL-R-SMT(01)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Manufacturer" value="Hirose"/>
+      <property name="ManufacturerPartNumber" value="U.FL-R-SMT(01)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>196c0d7c-1f5b-4e5d-ad53-ee22103fda63</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>U.FL-R-SMT(01)</value>
+      <footprint>ABOP_Parts:Connector_RF_Hirose_U.FL-R-SMT(01)</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Manufacturer">Hirose</field>
+        <field name="ManufacturerPartNumber">U.FL-R-SMT(01)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Manufacturer" value="Hirose"/>
+      <property name="ManufacturerPartNumber" value="U.FL-R-SMT(01)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe773616-2ea7-4efb-ab5b-b58346637d44</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>U.FL-R-SMT(01)</value>
+      <footprint>ABOP_Parts:Connector_RF_Hirose_U.FL-R-SMT(01)</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Manufacturer">Hirose</field>
+        <field name="ManufacturerPartNumber">U.FL-R-SMT(01)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Manufacturer" value="Hirose"/>
+      <property name="ManufacturerPartNumber" value="U.FL-R-SMT(01)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbf1caf2-7262-43d6-b1ff-555248b06fdf</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>50R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70815673-2424-4a08-b0ff-d6a4cf92429b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>QPQ1297</value>
+      <footprint>ABOP_Parts:Qorvo_QPQ1297</footprint>
+      <datasheet>https://www.qorvo.com/products/p/QPQ1297#documents</datasheet>
+      <fields>
+        <field name="Manufacturer">Qorvo</field>
+        <field name="ManufacturerPartNumber">QPQ1297</field>
+      </fields>
+      <libsource lib="ABOP_Parts" part="QPQ1297" description=""/>
+      <property name="Manufacturer" value="Qorvo"/>
+      <property name="ManufacturerPartNumber" value="QPQ1297"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa0b15c8-8def-4c42-adb7-34d01df95f55</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>HHM22139A2</value>
+      <footprint>ABOP_Parts:TDK_HHM22139A2</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/rf/rf/coupler/catalog/rf_coupler_hhm22139a2_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK</field>
+        <field name="ManufacturerPartNumber">HHM22139A2</field>
+      </fields>
+      <libsource lib="ABOP_Parts" part="HHM22139A2" description=""/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="ManufacturerPartNumber" value="HHM22139A2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="B3LPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d3e96df-224e-44e0-85ad-f9a19cf02b98</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ABOP_Parts" part="HHM22139A2">
+      <docs>https://product.tdk.com/system/files/dam/doc/product/rf/rf/coupler/catalog/rf_coupler_hhm22139a2_en.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">HHM22139A2</field>
+        <field name="Footprint">ABOP_Parts:TDK_HHM22139A2</field>
+        <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/rf/rf/coupler/catalog/rf_coupler_hhm22139a2_en.pdf</field>
+        <field name="Manufacturer">TDK</field>
+        <field name="ManufacturerPartNumber">HHM22139A2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="OUT" type="input"/>
+        <pin num="4" name="TERM" type="input"/>
+        <pin num="5" name="GND" type="input"/>
+        <pin num="6" name="CPL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ABOP_Parts" part="QPQ1297">
+      <docs>https://www.qorvo.com/products/p/QPQ1297#documents</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">QPQ1297</field>
+        <field name="Footprint">ABOP_Parts:Qorvo_QPQ1297</field>
+        <field name="Datasheet">https://www.qorvo.com/products/p/QPQ1297#documents</field>
+        <field name="Manufacturer">Qorvo</field>
+        <field name="ManufacturerPartNumber">QPQ1297</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B3_DL" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="B3_UL" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="GND" type="input"/>
+        <pin num="6" name="ANT" type="input"/>
+        <pin num="7" name="GND" type="input"/>
+        <pin num="8" name="GND" type="input"/>
+        <pin num="9" name="GND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ABOP_Parts">
+      <uri>H:/KiCAD Libraries/ABOP_Parts/ABOP_Parts.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="J1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="9" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="2" name="Net-(J1-In)">
+      <node ref="J1" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="B3_DL" pintype="input"/>
+    </net>
+    <net code="3" name="Net-(J2-In)">
+      <node ref="J2" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="B3_UL" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(J3-In)">
+      <node ref="J3" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="OUT" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(J4-In)">
+      <node ref="J4" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="CPL" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(U1-ANT)">
+      <node ref="U1" pin="6" pinfunction="ANT" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(U2-TERM)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="TERM" pintype="input"/>
+    </net>
+  </nets>
+</export>
