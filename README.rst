@@ -1,7 +1,7 @@
 LibreCellular RF Filter Designs
 ===============================
 
-.. image:: https://raw.githubusercontent.com/myriadrf/lc-clock/main/images/B3LPD_0p1_PCB_1_1280w.jpg
+.. image:: https://raw.githubusercontent.com/myriadrf/lc-filters/main/images/B3LPD_0p1_PCB_1_1280w.jpg
    :alt: B3LPD prototype.
 
 This repository contains the LibreCellular reference clock PCB (KiCAD) designs.
